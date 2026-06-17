@@ -1,5 +1,58 @@
 # Week 1 Detailed Workbook: IT Foundations, Safety, and Professional Operations
 
+## Table of contents
+
+- [Purpose of this workbook](#purpose-of-this-workbook)
+- [Week 1 target level](#week-1-target-level)
+- [Suggested weekly schedule](#suggested-weekly-schedule)
+- [Required Week 1 portfolio artifacts](#required-week-1-portfolio-artifacts)
+- [Part 1: Comprehensive Week 1 topics](#part-1-comprehensive-week-1-topics)
+  - [1. What a data center is](#1-what-a-data-center-is)
+  - [2. Main data center building blocks](#2-main-data-center-building-blocks)
+  - [3. Types of data centers](#3-types-of-data-centers)
+  - [4. Areas inside a data center](#4-areas-inside-a-data-center)
+  - [5. Common data center roles](#5-common-data-center-roles)
+  - [6. Professional mindset for data center work](#6-professional-mindset-for-data-center-work)
+  - [7. Safety fundamentals](#7-safety-fundamentals)
+  - [8. Physical security and access control](#8-physical-security-and-access-control)
+  - [9. Ticketing fundamentals](#9-ticketing-fundamentals)
+  - [10. Change management basics](#10-change-management-basics)
+  - [11. Documentation basics](#11-documentation-basics)
+  - [12. Communication and escalation](#12-communication-and-escalation)
+- [Part 2: Week 1 questions and model answers](#part-2-week-1-questions-and-model-answers)
+  - [Data center fundamentals](#data-center-fundamentals)
+  - [Roles and responsibilities](#roles-and-responsibilities)
+  - [Safety](#safety)
+  - [Physical security and access control](#physical-security-and-access-control)
+  - [Ticketing, changes, and documentation](#ticketing-changes-and-documentation)
+  - [Communication and professionalism](#communication-and-professionalism)
+  - [Scenario questions](#scenario-questions)
+- [Part 3: Lab exercises with hints](#part-3-lab-exercises-with-hints)
+  - [Lab 1: Build a data center concept map](#lab-1-build-a-data-center-concept-map)
+  - [Lab 2: Create a 75-term data center glossary](#lab-2-create-a-75-term-data-center-glossary)
+  - [Lab 3: Role responsibility matrix](#lab-3-role-responsibility-matrix)
+  - [Lab 4: Data center safety checklist](#lab-4-data-center-safety-checklist)
+  - [Lab 5: Access-control scenario exercise](#lab-5-access-control-scenario-exercise)
+  - [Lab 6: Write professional ticket updates](#lab-6-write-professional-ticket-updates)
+  - [Lab 7: Create a basic change request template](#lab-7-create-a-basic-change-request-template)
+  - [Lab 8: Handover note practice](#lab-8-handover-note-practice)
+  - [Lab 9: Escalation writing practice](#lab-9-escalation-writing-practice)
+  - [Lab 10: Build a Week 1 mock interview script](#lab-10-build-a-week-1-mock-interview-script)
+  - [Lab 11: Stop or proceed? decision drill](#lab-11-stop-or-proceed-decision-drill)
+  - [Lab 12: Final Week 1 self-assessment](#lab-12-final-week-1-self-assessment)
+- [Part 4: Templates to copy into the portfolio](#part-4-templates-to-copy-into-the-portfolio)
+  - [Ticket update template](#ticket-update-template)
+  - [Handover template](#handover-template)
+  - [Escalation template](#escalation-template)
+  - [Change request template](#change-request-template)
+  - [Safety checklist template](#safety-checklist-template)
+- [Part 5: Week 1 final exam](#part-5-week-1-final-exam)
+  - [Written exam](#written-exam)
+  - [Practical exam](#practical-exam)
+  - [Passing standard](#passing-standard)
+- [Part 6: Interview positioning for Week 1](#part-6-interview-positioning-for-week-1)
+- [Part 7: Week 1 completion checklist](#part-7-week-1-completion-checklist)
+
 ## Purpose of this workbook
 
 This workbook expands **Week 1** of the Data Center Engineer / Data Center Technician study plan. It is written for a complete beginner and is designed to build the professional foundation expected from a strong junior candidate in a competitive Dublin job market.
@@ -1222,7 +1275,7 @@ Write 1-2 minute answers for:
 
 `10-week-01-mock-interview-script.md`
 
-## Lab 11: “Stop or proceed?” decision drill
+## Lab 11: Stop or proceed? decision drill
 
 ### Objective
 
