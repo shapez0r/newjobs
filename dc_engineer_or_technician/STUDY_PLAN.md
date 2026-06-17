@@ -97,6 +97,12 @@ By the end, create:
 
 Build the mindset of a careful operations technician: safety, procedures, documentation, and basic IT vocabulary.
 
+## Detailed Week 1 workbook
+
+Use the dedicated workbook for a deeper day-by-day module with expanded topics, interview questions with model answers, and lab exercises with hints:
+
+- [Week 1 Detailed Workbook: IT Foundations, Safety, and Professional Operations](./WEEK_01_FOUNDATIONS_OPERATIONS.md)
+
 ## Topics
 
 - What data centers do: compute, storage, network, power, cooling.
@@ -154,6 +160,12 @@ Publish: `week-01-operations-basics.md` with glossary, safety checklist, and tic
 ## Goal
 
 Understand the components inside servers and how to troubleshoot common hardware issues.
+
+## Detailed Week 2 workbook
+
+Use the dedicated workbook for a deeper day-by-day module with expanded topics, interview questions with model answers, and lab exercises with hints:
+
+- [Week 2 Detailed Workbook: Computer Hardware and Server Fundamentals](./WEEK_02_SERVER_HARDWARE.md)
 
 ## Topics
 
