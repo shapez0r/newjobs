@@ -5,6 +5,7 @@
 - [Purpose of this workbook](#purpose-of-this-workbook)
 - [Week 2 target level](#week-2-target-level)
 - [Suggested weekly schedule](#suggested-weekly-schedule)
+- [Day-by-day Week 2 study order](#day-by-day-week-2-study-order)
 - [Required Week 2 portfolio artifacts](#required-week-2-portfolio-artifacts)
 - [Part 1: Comprehensive Week 2 topics](#part-1-comprehensive-week-2-topics)
   - [1. Server hardware versus desktop hardware](#1-server-hardware-versus-desktop-hardware)
@@ -102,6 +103,20 @@ The target is not "I know what RAM is." The target is:
 | Day 5 | Hardware troubleshooting and asset inventory | Troubleshooting flowcharts, inventory example, mock tickets |
 | Day 6 optional | Practical revision in VirtualBox/Linux | Screenshots, command outputs, and self-assessment |
 | Day 7 optional | Rest or catch-up | Improve weak areas and clean portfolio |
+
+## Day-by-day Week 2 study order
+
+Use this as the working order for the week. The reference material remains organized below, but the learner should complete the sections, questions, labs, and portfolio artifacts in this schedule order.
+
+| Day | Study sections | Practice | Portfolio output |
+|---|---|---|---|
+| Day 1 | Sections 1-2: server versus desktop hardware and rack server anatomy | Labs 1-2; Questions 1-4 | Front/back server diagram and component glossary |
+| Day 2 | Sections 3-6 and 9: CPU, RAM, motherboard, PCIe, power supplies, and NICs | Lab 3; Questions 5-10 | Desktop-vs-server comparison and hardware inspection checklist |
+| Day 3 | Sections 7-8 and 10: storage devices, RAID, HBA, and hot-swappable components | Labs 4, 6, 7, and 8; Questions 11-20 | Storage notes, RAID comparison table, and disk-failure simulation notes |
+| Day 4 | Sections 11-14: firmware, BIOS/UEFI, boot process, BMC/iDRAC/iLO/IPMI, and PXE | Labs 5, 9, and 10; Questions 21-28 | Boot-flow diagram, VirtualBox boot lab, and remote-management notes |
+| Day 5 | Sections 15-18: inventory, common symptoms, Linux inspection commands, evidence, and escalation | Labs 11-14; Questions 29-40 | Asset inventory, troubleshooting flowcharts, mock hardware tickets, and interview script |
+| Day 6 optional | Repeat the Linux and VirtualBox practical work without notes | Lab 15; collect screenshots and command outputs | Self-assessment and cleaned Week 2 portfolio |
+| Day 7 optional | Rest or catch-up | Fill any missing artifacts | Ready-to-review portfolio folder |
 
 ## Required Week 2 portfolio artifacts
 

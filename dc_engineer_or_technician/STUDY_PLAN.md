@@ -103,6 +103,28 @@ Use the dedicated workbook for a deeper day-by-day module with expanded topics, 
 
 - [Week 1 Detailed Workbook: IT Foundations, Safety, and Professional Operations](./WEEK_01_FOUNDATIONS_OPERATIONS.md)
 
+## Suggested study order
+
+1. **Day 1: Data center basics**
+   - Learn what data centers do, the main building blocks, types of facilities, and common areas.
+   - Produce a concept map and glossary.
+
+2. **Day 2: Roles and operational culture**
+   - Learn technician, engineer, NOC, remote-hands, facilities, security, and customer responsibilities.
+   - Produce a responsibility matrix and stop/escalate rules.
+
+3. **Day 3: Safety and access control**
+   - Learn ESD, lifting, electrical awareness, hot/cold aisles, physical security, badges, visitor rules, and escorting.
+   - Produce a safety checklist and access-control scenario answers.
+
+4. **Day 4: Ticketing, documentation, and change management**
+   - Learn ticket lifecycle, ticket updates, change risk, rollback, validation, photos, labels, diagrams, and asset records.
+   - Produce ticket examples, a change request template, and a handover note.
+
+5. **Day 5: Communication and review**
+   - Learn concise updates, escalation, incident mindset, and interview explanations.
+   - Produce escalation examples, mock interview answers, and the final Week 1 portfolio.
+
 ## Topics
 
 - What data centers do: compute, storage, network, power, cooling.
@@ -166,6 +188,28 @@ Understand the components inside servers and how to troubleshoot common hardware
 Use the dedicated workbook for a deeper day-by-day module with expanded topics, interview questions with model answers, and lab exercises with hints:
 
 - [Week 2 Detailed Workbook: Computer Hardware and Server Fundamentals](./WEEK_02_SERVER_HARDWARE.md)
+
+## Suggested study order
+
+1. **Day 1: Server anatomy and layout**
+   - Learn server vs desktop hardware and rack server front, back, and internal layout.
+   - Produce a front/back server diagram and component glossary.
+
+2. **Day 2: Core components**
+   - Learn CPU, RAM, motherboard, PCIe, PSU, and NIC fundamentals.
+   - Produce hardware comparison notes and an inspection checklist.
+
+3. **Day 3: Storage and RAID**
+   - Learn HDD, SATA SSD, SAS SSD, NVMe, RAID, HBA, and hot-swappable component concepts.
+   - Produce storage notes, a RAID worksheet, and disk-failure simulation notes.
+
+4. **Day 4: Firmware, boot, and remote management**
+   - Learn BIOS/UEFI, firmware, boot order, BMC, iDRAC, iLO, IPMI, PXE, and imaging basics.
+   - Produce a boot-flow diagram, VirtualBox boot lab notes, and remote-management notes.
+
+5. **Day 5: Troubleshooting and inventory**
+   - Learn common hardware symptoms, Linux inspection commands, evidence collection, ticket updates, and escalation.
+   - Produce troubleshooting flowcharts, an asset inventory, mock hardware tickets, and the Week 2 interview script.
 
 ## Topics
 

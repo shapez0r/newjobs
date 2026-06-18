@@ -5,6 +5,7 @@
 - [Purpose of this workbook](#purpose-of-this-workbook)
 - [Week 1 target level](#week-1-target-level)
 - [Suggested weekly schedule](#suggested-weekly-schedule)
+- [Day-by-day Week 1 study order](#day-by-day-week-1-study-order)
 - [Required Week 1 portfolio artifacts](#required-week-1-portfolio-artifacts)
 - [Part 1: Comprehensive Week 1 topics](#part-1-comprehensive-week-1-topics)
   - [1. What a data center is](#1-what-a-data-center-is)
@@ -82,6 +83,20 @@ The target is not “I watched a video about data centers.” The target is:
 | Day 5 | Communication, incident mindset, and review | Mock interview answers and final Week 1 portfolio |
 | Day 6 optional | Revision and mock interview | Recorded 10-minute explanation |
 | Day 7 optional | Rest or catch-up | Improve weak areas |
+
+## Day-by-day Week 1 study order
+
+Use this as the working order for the week. The detailed reference sections, questions, labs, and templates remain below, but the learner should move through them in this sequence.
+
+| Day | Study sections | Practice | Portfolio output |
+|---|---|---|---|
+| Day 1 | Sections 1-4: what data centers do, building blocks, types, and areas | Labs 1-2; Questions 1-15 | Concept map and glossary |
+| Day 2 | Sections 5-6: roles, responsibilities, and professional mindset | Labs 3 and 11; Questions 16-25 plus stop/escalate scenarios | Responsibility matrix and stop/escalate rules |
+| Day 3 | Sections 7-8: safety, physical security, and access control | Labs 4-5; Questions 26-50 | Safety checklist and access-control scenario answers |
+| Day 4 | Sections 9-11: ticketing, change management, and documentation | Labs 6-8; Questions 51-65; copy the ticket, change, and handover templates | Ticket examples, change request template, and handover note |
+| Day 5 | Section 12: communication and escalation | Labs 9-10 and 12; Questions 66-90; final review | Escalation examples, mock interview answers, and final self-assessment |
+| Day 6 optional | Revisit weak sections and repeat scenario questions aloud | Record a 10-minute explanation and refine unclear answers | Polished Week 1 portfolio |
+| Day 7 optional | Rest or catch-up | Fill any missing artifacts | Ready-to-review portfolio folder |
 
 ## Required Week 1 portfolio artifacts
 
