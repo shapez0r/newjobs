@@ -281,6 +281,34 @@ Publish: server hardware diagram and asset inventory example.
 
 Gain practical network understanding sufficient to follow cabling tickets, verify connectivity, and escalate intelligently.
 
+## Detailed Week 3 workbook
+
+Use the dedicated workbook for a deeper day-by-day module with expanded topics, interview questions with model answers, and lab exercises with hints:
+
+- [Week 3 Detailed Workbook: Networking Fundamentals for Data Centers](./WEEK_03_NETWORKING.md)
+
+## Suggested study order
+
+1. **Day 1: OSI, Ethernet, MAC addresses, and ARP**
+   - Learn networking as a layer-by-layer troubleshooting method, not just theory.
+   - Produce a practical OSI map and MAC/ARP notes.
+
+2. **Day 2: IP addressing, gateways, and subnetting**
+   - Learn IP address, subnet mask, default gateway, and common prefixes `/24` through `/28`.
+   - Produce a subnet worksheet and home network diagram.
+
+3. **Day 3: DNS, DHCP, and command evidence**
+   - Learn how to distinguish link, IP, gateway, and DNS failures.
+   - Produce Windows and Linux network command evidence notes.
+
+4. **Day 4: Cabling, fiber, switch ports, and VLANs**
+   - Learn copper, fiber, patch panels, port maps, link speed, access ports, trunk ports, and VLAN basics.
+   - Produce a rack-to-switch port map, cable labeling standard, and two-VLAN diagram.
+
+5. **Day 5: Troubleshooting, documentation, and interview practice**
+   - Learn safe network troubleshooting boundaries, ticket updates, and escalation language.
+   - Produce a network troubleshooting flowchart, mock ticket updates, and Week 3 interview script.
+
 ## Topics
 
 - OSI model in practical terms.
@@ -362,6 +390,34 @@ Publish: network troubleshooting flowchart and rack port map.
 ## Goal
 
 Become comfortable with command-line work commonly requested by remote engineers.
+
+## Detailed Week 4 workbook
+
+Use the dedicated workbook for a deeper day-by-day module with expanded topics, interview questions with model answers, and lab exercises with hints:
+
+- [Week 4 Detailed Workbook: Linux Basics and Remote Troubleshooting](./WEEK_04_LINUX_REMOTE_TROUBLESHOOTING.md)
+
+## Suggested study order
+
+1. **Day 1: Ubuntu VM, shell navigation, and filesystem layout**
+   - Learn how to use a Linux lab safely, move around directories, and recognize common filesystem locations.
+   - Produce VM setup notes and a Linux navigation command sheet.
+
+2. **Day 2: Files, users, groups, sudo, permissions, and safe editing**
+   - Learn file operations, ownership, permissions, `sudo`, package basics, and how to treat change-making commands carefully.
+   - Produce permissions notes, package evidence, and safe text-editing notes.
+
+3. **Day 3: Resource and network checks**
+   - Learn CPU, memory, disk, process, uptime, and Linux network evidence commands.
+   - Produce a resource health runbook, disk investigation note, and Linux network check note.
+
+4. **Day 4: Services, systemd, logs, SSH, and file transfer**
+   - Learn service status checks, lab restarts, `journalctl`, log evidence, SSH, SCP, and SFTP concepts.
+   - Produce service troubleshooting notes, log inspection notes, and an SSH access checklist.
+
+5. **Day 5: Remote-hands simulation and interview practice**
+   - Learn how to follow remote instructions exactly, document command output, hand over incomplete work, and escalate risky commands.
+   - Produce a remote-hands simulation, mock Linux ticket updates, and Week 4 interview script.
 
 ## Topics
 
