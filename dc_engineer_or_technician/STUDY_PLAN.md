@@ -506,6 +506,29 @@ Publish: Linux troubleshooting runbook with screenshots.
 
 Understand physical data center work well enough to sound credible and safe in interviews.
 
+## Detailed Week 5 workbook
+
+Use the dedicated workbook for a deeper day-by-day module with physical-work procedures, safety boundaries, scenario questions, labs, templates, and interview practice:
+
+- [Week 5 Detailed Workbook: Data Center Physical Operations](./WEEK_05_DATA_CENTER_OPERATIONS.md)
+
+## Suggested study order
+
+1. **Day 1: Rack orientation, elevations, safety, and installation planning**
+   - Learn to verify rack coordinates, equipment identity, rails, lifting needs, and physical-work stop conditions.
+
+2. **Day 2: Rack-and-stack workflow, asset control, and cable pathways**
+   - Learn the controlled installation sequence, record updates, cable serviceability, and traceability.
+
+3. **Day 3: Power resilience, cooling, and airflow**
+   - Learn power-path awareness, A/B feed mapping, redundancy boundaries, airflow, and environmental escalation.
+
+4. **Day 4: Copper, fiber, optics, labels, and port maps**
+   - Learn safe physical connection handling, two-source verification, and evidence for link issues.
+
+5. **Day 5: Spares, decommissioning, physical validation, and interview practice**
+   - Learn lifecycle control, secure retirement, closure evidence, handover, and physical-operations interview answers.
+
 ## Topics
 
 - Rack units, rails, rack elevations.
@@ -564,6 +587,29 @@ Publish: full rack elevation, cabling standard, and power diagram.
 ## Goal
 
 Develop structured troubleshooting and incident communication skills.
+
+## Detailed Week 6 workbook
+
+Use the dedicated workbook for a deeper day-by-day module with a repeatable troubleshooting method, incident simulations, escalation templates, post-incident practice, and interview preparation:
+
+- [Week 6 Detailed Workbook: Troubleshooting, Incidents, and Escalation](./WEEK_06_INCIDENTS_ESCALATION.md)
+
+## Suggested study order
+
+1. **Day 1: Triage, impact, scope, and safe first actions**
+   - Learn to establish identity, safety, time, severity context, and an incident timeline before troubleshooting.
+
+2. **Day 2: Evidence, fault domains, and testable hypotheses**
+   - Learn to use earlier hardware, network, Linux, and physical runbooks in a low-risk, evidence-led order.
+
+3. **Day 3: Escalation, updates, timelines, and coordination**
+   - Learn to write precise resolver-group requests and factual stakeholder updates without inventing an ETA.
+
+4. **Day 4: Containment, recovery validation, handover, and review**
+   - Learn the difference between mitigation, recovery, root cause, and follow-up work.
+
+5. **Day 5: Multi-domain tabletop, interview practice, and assessment**
+   - Practise calm incident communication under ambiguity and explain the approach aloud.
 
 ## Topics
 
@@ -624,6 +670,29 @@ Publish: incident report, escalation note, and post-incident review.
 
 Go beyond technician tasks by understanding how data centers support cloud and production services.
 
+## Detailed Week 7 workbook
+
+Use the dedicated workbook for a deeper day-by-day module covering virtualization, storage, reliability, monitoring, cloud dependencies, security, and compliance awareness:
+
+- [Week 7 Detailed Workbook: Cloud, Reliability, and Junior Engineer Skills](./WEEK_07_CLOUD_DATA_CENTER_BRIDGE.md)
+
+## Suggested study order
+
+1. **Day 1: Service dependencies, virtualization, hosts, guests, and clusters**
+   - Learn how a physical host, virtual workload, network path, and service relate to each other.
+
+2. **Day 2: Storage, data protection, recovery objectives, and failure domains**
+   - Learn what backup, replication, redundancy, HA, DR, RPO, and RTO each do and do not protect.
+
+3. **Day 3: Monitoring, alert triage, capacity, and maintenance impact**
+   - Learn to interpret signals, establish scope, and identify missing capacity or validation information.
+
+4. **Day 4: Cloud concepts, shared responsibility, access, audit, and data awareness**
+   - Learn responsibility boundaries and safe handling of infrastructure access and documentation.
+
+5. **Day 5: Cross-layer scenario, architecture explanation, and interview practice**
+   - Connect physical work to cloud customer impact without overclaiming platform administration experience.
+
 ## Topics
 
 - Virtualization: hypervisors, VMs, hosts, clusters.
@@ -676,6 +745,29 @@ Publish: cloud-to-hardware architecture diagram and monitoring notes.
 ## Goal
 
 Turn knowledge into a hiring package and practice interview performance.
+
+## Detailed Week 8 workbook
+
+Use the dedicated workbook to assemble a complete capstone, turn the work into an honest hiring portfolio, and rehearse technical and behavioural interviews:
+
+- [Week 8 Detailed Workbook: Capstone and Career Readiness](./WEEK_08_CAPSTONE_CAREER_READINESS.md)
+
+## Suggested study order
+
+1. **Day 1: Capstone scope, evidence audit, names, and source of truth**
+   - Select and reconcile the strongest earlier artifacts into one fictional environment.
+
+2. **Day 2: Final architecture, traceability, resilience, and risk**
+   - Build physical, logical, service, power, network, and failure-domain records that agree.
+
+3. **Day 3: Operations runbook, ticket pack, and integrated incident**
+   - Demonstrate common work from request through evidence, validation, handover, and follow-up.
+
+4. **Day 4: Documentation quality review and capstone presentation**
+   - Check consistency, remove sensitive data, and rehearse a clear 8-10 minute walkthrough.
+
+5. **Day 5: CV, LinkedIn, job targeting, STAR stories, and mock interviews**
+   - Turn the portfolio into an honest, role-ready hiring package with a focused learning plan.
 
 ## Capstone project: Mini data center operations lab
 
